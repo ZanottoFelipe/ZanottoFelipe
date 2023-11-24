@@ -9,7 +9,7 @@
 - **Linguagens:** PHP, JavaScript, Python.
 - **Back-end:** Desenvolvimento de APIs, manipulação de banco de dados, segurança.
 - **Front-end:** Conhecimentos sólidos para colaboração efetiva com desenvolvedores front-end.
-- **Ferramentas:** Git, Docker, RESTful APIs.
+
 
 ## Contato
 - 📧 Email: zanottofelipe1@gmail.com
