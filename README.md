@@ -1,4 +1,4 @@
-# Olá, eu sou Felipe Zanotto! 👋
+# Olá, meu nome é Felipe Zanotto! 👋
 
 ## Sobre mim
 - 👨‍💻 Programador apaixonado por resolver problemas e criar soluções eficientes.
