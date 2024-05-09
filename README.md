@@ -12,7 +12,7 @@
 
 
 ## Contato
-- 📧 Email: zanottofelipe1@gmail.com
+- 📧 Email: falecom@zanottofelipe.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/felipe-zanotto-470905202
 - 📳 Contato: (54) 991613724
 
