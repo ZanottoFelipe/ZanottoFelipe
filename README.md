@@ -1,14 +1,18 @@
 # Olá, meu nome é Felipe Zanotto! 👋
 
 ## Sobre mim
-- 👨‍💻 Programador apaixonado por resolver problemas e criar soluções eficientes.
-- 🎓 Último ano da faculdade de Análise e Desenvolvimento de Sistemas.
-- 🌐 Tenho experiência em PHP, JavaScript e Python.
+Programador com 2 anos de experiência, atendo as necessidades das empresas na área de
+tecnologia da informação, com ênfase na programação de sistemas. Busco me
+desenvolver constantemente para aprimorar meu trabalho e realizar entregas com
+excelência.
 
 ## Habilidades
-- **Linguagens:** PHP, JavaScript, Python.
-- **Back-end:** Desenvolvimento de APIs, manipulação de banco de dados, segurança.
-- **Front-end:** Conhecimentos sólidos para colaboração efetiva com desenvolvedores front-end.
+- Linguagens: PHP, JavaScript, Python.
+- Back-end: Desenvolvimento de APIs, manipulação de banco de dados, segurança.
+- Front-end: HTML, CSS, jQuery, React.js.
+- Banco de Dados: MySQL, MongoDB.
+- Frameworks: Laravel (PHP), Django (Python).
+- Ferramentas de Desenvolvimento: Git, VS Code.
 
 ## Contato
 - 📧 Email: [falecom@zanottofelipe.com](mailto:falecom@zanottofelipe.com)
