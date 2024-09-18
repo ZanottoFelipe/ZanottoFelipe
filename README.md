@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ZanottoFelipeZanottoFelipe/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zanottofelipe/output/snake.svg" alt="Snake animation" />
 
 ###
 
