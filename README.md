@@ -1,24 +1,47 @@
-# Olá, meu nome é Felipe Zanotto! 👋
+<h1 align="left">Olá, meu nome é Felipe Zanotto! 👋</h1>
 
-## Sobre mim
-Programador com 2 anos de experiência, atendo as necessidades das empresas na área de
-tecnologia da informação, com ênfase na programação de sistemas. Busco me
-desenvolver constantemente para aprimorar meu trabalho e realizar entregas com
-excelência.
+###
 
-## Habilidades
-- Linguagens: PHP, JavaScript, Python.
-- Back-end: Desenvolvimento de APIs, manipulação de banco de dados, segurança.
-- Front-end: HTML, CSS, jQuery, React.js.
-- Banco de Dados: MySQL, MongoDB.
-- Frameworks: Laravel (PHP), Django (Python).
-- Ferramentas de Desenvolvimento: Git, VS Code.
+<p align="left">Trabalho como programador há um tempo, com foco em back-end, mas também curto desenvolver projetos full-stack por conta própria. Dá uma olhada nos meus projetos aqui no perfil e confira o que tenho desenvolvido!</p>
 
-## Contato
-- 📧 Email: [falecom@zanottofelipe.com](mailto:falecom@zanottofelipe.com)
-- 🔗 LinkedIn: [Felipe Zanotto](https://www.linkedin.com/in/felipe-zanotto-470905202)
-- 📳 Contato: (54) 991613724
+###
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeZanotto&theme=dark&show_icons=true) !-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanottoFelipe&theme=dark&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/zanottofelipe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zanottofelipe&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/zanottofelipe/zanottofelipe/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/zanottofelipe/count.svg?"  />
+</div>
+
+###
