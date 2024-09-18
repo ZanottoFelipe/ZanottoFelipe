@@ -43,7 +43,9 @@
 ###
 
 <div align="center">
-  [<img src="[https://spotify-recently-played-readme.vercel.app/api?count=5](https://spotify-recently-played-readme.vercel.app/api?user=312ydg7735k2n2q4d25aj4wymemi)" alt="Spotify recently played"  />](https://spotify-recently-played-readme.vercel.app/api?user=312ydg7735k2n2q4d25aj4wymemi)
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=312ydg7735k2n2q4d25aj4wymemi" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312ydg7735k2n2q4d25aj4wymemi" alt="Spotify recently played" />
+  </a>
 </div>
 
 ###
