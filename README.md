@@ -1,8 +1,17 @@
-<h1 align="left">Olá, meu nome é Felipe Zanotto! 👋</h1>
+<h1 align="left">Olá, meu nome é Felipe Zanotto!</h1>
 
 ###
 
-<p align="left">Trabalho como programador há um tempo, com foco em back-end, mas também curto desenvolver projetos full-stack por conta própria. Dá uma olhada nos meus projetos aqui no perfil e confira o que tenho desenvolvido!</p>
+<p align="left">Desenvolvedor de Software com foco em back-end, atuando principalmente no desenvolvimento de APIs em Laravel, sendo responsável pela criação, evolução e manutenção das APIs, desde a modelagem até a entrega em produção. Trabalho aplicando boas práticas de desenvolvimento, Código Limpo, organização de projetos e padrões que garantem escalabilidade, desempenho e manutenibilidade.
+
+Possuo experiência na utilização de Docker para padronização de ambientes, bem como na construção e manutenção de pipelines de CI/CD, automatizando processos de build, testes e deploy. Também utilizo filas e integrações entre serviços para suportar aplicações mais robustas e ambientes de maior demanda.
+
+Além do desenvolvimento de APIs, atuo no suporte técnico a projetos WordPress e WooCommerce, realizando manutenções, correções e o desenvolvimento de plugins personalizados, criados sob medida para atender regras de negócio específicas.
+
+Formação
+
+ Análise e Desenvolvimento de Sistemas
+Universidade de Caxias do Sul (UCS) — Ensino Superior Concluído</p>
 
 ###
 
