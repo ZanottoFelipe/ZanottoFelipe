@@ -57,10 +57,6 @@ Universidade de Caxias do Sul (UCS) — Ensino Superior Concluído</p>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zanottofelipe/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
