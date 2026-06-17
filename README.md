@@ -57,12 +57,4 @@ Universidade de Caxias do Sul (UCS) — Ensino Superior Concluído</p>
 
 ###
 
-###
 
-<div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=312ydg7735k2n2q4d25aj4wymemi" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312ydg7735k2n2q4d25aj4wymemi" alt="Spotify recently played" />
-  </a>
-</div>
-
-###
